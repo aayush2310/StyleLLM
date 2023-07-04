@@ -9,7 +9,8 @@ Skills that would be nice to have : familiarity with LLM(s), BAM, and building a
 
 
 # My Contribution
-My role in the team was to make the app.py file and search for some cool 
+My role in the team was to make the app.py file and search for some cool logos to use in the UI.Apart from that, I was assigned the task
+to test prompts on the Promt Lab of the BAM portal for the sarcastic mode.
 
 
 
