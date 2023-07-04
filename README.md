@@ -1,6 +1,15 @@
 # StyleLLM
+Style Transfer using LLM(s) for Interactive Agents- A demo for Sarcasm and code-Mixing : A demo where we will use LLM(s) to demonstrate control for how a sarcastic a sentence is , or how code-mixed a sentence is , 
+with Hindi being the target language.We propose the following steps:-
+(i)use BAM and prompts to get response
+(ii)Depending on resources, finetune an LLM and add it to demo
+(iii)and have a simple website to demo the kit .
 
-## Explanation of app.py file
+Skills that would be nice to have : familiarity with LLM(s), BAM, and building a simple frontend to demo the work.
+
+
+
+# Explanation of app.py file
 
 # from flask import Flask, render_template, jsonify, request
 ->We import the necessary modules: Flask for creating the application, render_template for rendering HTML templates, jsonify for converting Python objects to JSON responses, and 
