@@ -8,6 +8,10 @@ with Hindi being the target language.We propose the following steps:-
 Skills that would be nice to have : familiarity with LLM(s), BAM, and building a simple frontend to demo the work.
 
 
+# My Contribution
+My role in the team was to make the app.py file and search for some cool 
+
+
 
 # Explanation of app.py file
 
