@@ -1,0 +1,12 @@
+{
+    "HF_MODEL_NAME": {
+        "tiiuae/falcon-7b-instruct": "tiiuae/falcon-7b-instruct",
+    },
+    "STYLE_PROMPT": {
+        "sarcasam": "xiaoxu",
+        "style": "xiaoxu",
+        "HOST": "127.0.0.1",
+        "PORT": 5432,
+        "DB": "xiaoxu_database"
+    }
+}
